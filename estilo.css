@@ -5,7 +5,7 @@
 
 body { 
 
-    text-shadow: rgba(0, 0, 0, 0.404) 2px 2px 2px;
+    text-shadow: rgba(0, 0, 0, 0.897) 2px 2px 2px;
     background-color:#1632F5;
 color: white;
 font-size: large;
@@ -57,8 +57,8 @@ section {
     float: left;
     width: 75%;
 }
-p { width: 400px;
-    height: 550px;
+p { width: 339px;
+    height: 400px;
     background-color: rgb(81 33 245);
     display: inline-block; 
     font-size: xx-large;
@@ -72,21 +72,22 @@ img { width: 50px;
 height: 50px;
 margin: 0%;
 display: block;
-margin: 15px;
+margin: 4px;
 margin-top: -40px;
 }
     
 aside {
+    font-family: Arial, Helvetica, sans-serif;
     float: left;
     width: 25%;
     background-color: #7afa0a86;
     padding: 10px;
     margin-block: -100px;
-    color:rgb(4, 0, 236);
+    color:white;
 }
 h3 { background-color: #d3d6099a;
-    padding: 5px;
-    margin: auto;
+    padding: 8px;
+    margin: -8px;
     
 
 }
