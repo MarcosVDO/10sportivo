@@ -57,7 +57,7 @@ section {
     float: left;
     width: 75%;
 }
-p { width: 325px;
+p { width: 300px;
     height: 400px;
     background-color: rgb(81 33 245);
     display: inline-block; 
