@@ -25,7 +25,7 @@ h1 {
     background-image: linear-gradient(to right, #08D432, #6ac97d);
     padding: 11px;
     margin: 5px 0px 20px;
-    width: 400px;
+    width: 500px;
 }
 nav {
     color: white;
@@ -70,6 +70,19 @@ p { width: 290px;
     border-radius: 10px;
     
 }
+.quadro01 { background-image:url(spfcphoto.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;   
+}
+.quadro02 {
+    background-image: url(santos.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+
 
     
 aside {
